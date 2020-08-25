@@ -20,6 +20,4 @@
 
 
 [reset](https://md-mcps-psv=
-.edupoint.com/Forgot_Password_Reset.aspx?t=3DT3lCMHIyOUJCNHpmaDQwOWtVZTgvUW=
-s4RldJY09uWVg5REIzMjF5Z1dpSm5nWnp5K05HdUdFZTUvWVR3N3VqQmMvck1nWk4zTDE4bFhTQ=
-lZJMlJMZHc9PQ2)
+.edupoint.com/Forgot_Password_Reset.aspx?t=3DT3lCMHIyOUJCNHpmaDQwOWtVZTgvUW=s4RldJY09uWVg5REIzMjF5Z1dpSm5nWnp5K05HdUdFZTUvWVR3N3VqQmMvck1nWk4zTDE4bFhTQ=lZJMlJMZHc9PQ2)
