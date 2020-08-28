@@ -1,6 +1,6 @@
-# Come On It's Still Good
+# Come On, It's Still Good
 
-### Reboot Casts
+## Reboot Casts
 
 * #### [The Rock (1996)](https://www.imdb.com/title/tt0117500/)
 
