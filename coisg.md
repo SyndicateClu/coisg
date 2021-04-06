@@ -2,16 +2,16 @@
 
 | Movie                                              | Regan    | Ryan     | Rob      | Guest | End Quote          | End Quote Origin                                                      |
 | :------------------------------------------------- | :------- | :------- | :------- | :----------------- |:----------------- | :-------------------------------------------------------------------- |
-| The Rock (1996)                                    | COisG 👍 | COisG 👍 | COisG 👍 | N/A                |N/A                | N/A                                                                   |
+| The Rock (1996)                                    | COisG 👍 | COisG 👍 | COisG 👍 | N/A                | N/A                | N/A                                                                   |
 | Bowfinger (1999)                                   | COisG 👍 | COisG 👍 | COisG 👍 | N/A       | Boosh              | [Frisky Dingo (2006)](https://en.wikipedia.org/wiki/Frisky_Dingo)     |
 | Robocop (1987)                                     | COisG 👍 | COisG 👍 | COisG 👍 | N/A              | N/A                | N/A                             |
 | Jurassic Park (1993)                               | COisG 👍 | COisG 👍 | COisG 👍 | N/A        | N/A                | N/A                                   |
-| Krull (1983)                                       | COisG 👍 | COisB ❌ | COisB ❌ | N/A          | If it bleeds, we can kill it.               | [Predator (1987)](https://en.wikipedia.org/wiki/Predator_(film))    |
+| Krull (1983)                                       | COisG 👍 | COisB ❌ | COisB ❌ | N/A      | If it bleeds, we can kill it.               | [Predator (1987)](https://en.wikipedia.org/wiki/Predator_(film))    |
 | Can't Hardly Wait (1998)                           | COisG 👍 | COisB ❌ | COisB ❌ | N/A                | Have you ever danced with the devil in the pale moonlight?               | [Batman (1989)](https://en.wikipedia.org/wiki/Batman_(1989_film))      |
 | Clue (1985)                                        | COisG 👍 | COisB 👍 | COisB 👍 | N/A              | I have been... and always shall be... your friend.              | [Star Trek II: The Wrath of Khan (1982)](https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan)      |
-| The Matrix (1999)                                  | COisG 👍 | COisB 👍 | COisB 👍 | E - COisG 👍       |  *Shoot* the *glass!*              | [Die Hard (1988)](https://en.wikipedia.org/wiki/Die_Hard)      |
-| House of the Dead (2003)                           | COisG 👍 | COisB ❌ | COisB ❌ | N/A                |TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
-| Scream (1996)                                      | COisG 👍 | COisB ❌ | COisB ❌ | N/A                | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
+| The Matrix (1999)                                  | COisG 👍 | COisB 👍 | COisB 👍 | E - COisG 👍       |  Shoot the glass!              | [Die Hard (1988)](https://en.wikipedia.org/wiki/Die_Hard)      |
+| House of the Dead (2003)                           | COisG 👍 | COisB ❌ | COisB ❌ | N/A         | It's a trick. Get an axe.                | [Army of Darkness (1992)](https://en.wikipedia.org/wiki/Army_of_Darkness)      |
+| Scream (1996)                                      | COisG 👍 | COisB 👍 | COisB 👍 | N/A    | I am a leaf on the wind - watch how I soar.   | [Serenity (2005)](https://en.wikipedia.org/wiki/Serenity_(2005_film))      |
 | Jason X (2001)                                     | COisG 👍 | COisB ❌ | COisB ❌ | N/A                |TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
 | Dawn of the Dead (2004)                            | COisG 👍 | COisB ❌ | COisB ❌ | N/A                |TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
 | Highlander (1986)                                  | COisG 👍 | COisB ❌ | COisB ❌ | N/A                |TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
