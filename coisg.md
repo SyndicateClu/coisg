@@ -6,9 +6,9 @@
 | Bowfinger (1999)                                   | COisG 👍 | COisG 👍 | COisG 👍 | Boosh              | [Frisky Dingo (2006)](https://en.wikipedia.org/wiki/Frisky_Dingo)     |
 | Robocop (1987)                                     | COisG 👍 | COisG 👍 | COisG 👍 | N/A                | N/A                                                                   |
 | Jurassic Park (1993)                               | COisG 👍 | COisG 👍 | COisG 👍 | N/A                | N/A                                                                   |
-| Krull (1983)                                       | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Predator (1987)](<https://en.wikipedia.org/wiki/Predator_(film)>)    |
-| Can't Hardly Wait (1998)                           | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
-| Clue (1985)                                        | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
+| Krull (1983)                                       | COisG 👍 | COisB ❌ | COisB ❌ | If it bleeds, we can kill it.               | [Predator (1987)](<https://en.wikipedia.org/wiki/Predator_(film)>)    |
+| Can't Hardly Wait (1998)                           | COisG 👍 | COisB ❌ | COisB ❌ | Have you ever danced with the devil in the pale moonlight?               | [Batman (1989)](https://en.wikipedia.org/wiki/Batman_(1989_film))      |
+| Clue (1985)                                        | COisG 👍 | COisB ❌ | COisB ❌ | I have been... and always shall be... your friend.              | [Star Trek II: The Wrath of Khan (1982)](https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan)      |
 | The Matrix (1999)                                  | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
 | House of the Dead (2003)                           | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
 | Scream (1996)                                      | COisG 👍 | COisB ❌ | COisB ❌ | TBD                | [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>)      |
