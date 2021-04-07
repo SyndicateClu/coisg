@@ -75,8 +75,4 @@ Voltage (2009) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | TBD |
 Sea (1999) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | TBD |
 [Batman (1989)](<https://en.wikipedia.org/wiki/Predator_(film)>) | | Dark City
 (1998) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Hubba hubba hubba. |
-[Payback (1998)](<https://en.wikipedia.org/wiki/Payback_(1999_film)>) | | Mortal
-Kombat (1998) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | Hubba hubba hubba. |
-[Payback (1998)](<https://en.wikipedia.org/wiki/Payback_(1999_film)>) | |
-Resident Evil (1998) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Hubba hubba hubba.
-| [Payback (1998)](<https://en.wikipedia.org/wiki/Payback_(1999_film)>) |
+[Payback (1998)](<https://en.wikipedia.org/wiki/Payback_(1999_film)>) |
