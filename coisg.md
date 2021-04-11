@@ -44,5 +44,5 @@
 | Movie | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | Movie | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | Mortal Kombat (1995) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | Quote | [OriginTitle](OriginURL) |
-| Resident Evil (2002) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Do you know why you're afraid when you're alone? I do. I do. | [[The Sixth Sense (1999)](https://en.wikipedia.org/wiki/The_Sixth_Sense) |
+| Resident Evil (2002) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Do you know why you're afraid when you're alone? I do. I do. | [The Sixth Sense (1999)](https://en.wikipedia.org/wiki/The_Sixth_Sense) |
 | The Monster Squad (1987) | COisB ❌ | COisB ❌ | COisB 👍 | Lester - COisB 👍, E - COisB 👍 (Tiebreaker) | Dog will hunt. | [The Texas Chainsaw Massacre 2 (1986)](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2) |
