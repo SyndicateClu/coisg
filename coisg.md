@@ -42,6 +42,6 @@
 | [Mortal Kombat (1995)](https://www.imdb.com/title/tt0113855/) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | Quote | [OriginTitle](OriginURL) |
 | [Resident Evil (2002)](https://www.imdb.com/title/tt0120804/) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Do you know why you're afraid when you're alone? I do. I do. | [The Sixth Sense (1999)](https://en.wikipedia.org/wiki/The_Sixth_Sense) |
 | [The Monster Squad (1987)](https://www.imdb.com/title/tt0093560/) | COisB ❌ | COisB ❌ | COisB 👍 | Lester - COisB 👍, E - COisB 👍 (Tiebreaker) | Dog will hunt. | [The Texas Chainsaw Massacre 2 (1986)](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2) |
-| [Ewoks: The Battle for Endor (1985)](https://www.imdb.com/title/tt0089110/) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | No No No You got to listento the way people talk. You don't say aff | [OriginTitle](OriginURL) |
+| [Ewoks: The Battle for Endor (1985)](https://www.imdb.com/title/tt0089110/) | COisG 👍 | COisB ❌ | COisB ❌ | N/A | NNo, no, no, no. You gotta listen to the way people talk. You don't say "affirmative," or some shit like that. You say "no problemo." | [Terminator 2: Judgment Day (1991)](https://www.imdb.com/title/tt0103064/) |
 | [MovieTitle](MovieURL) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | [MovieTitle](MovieURL) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
