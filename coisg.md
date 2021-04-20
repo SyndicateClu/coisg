@@ -1,7 +1,7 @@
 # Movies
 
 | Movie | Regan | Ryan | Rob | Guest | End Quote | End Quote Origin |
-| :-- | :-- | :-- | :-- | :-- | :-- | :-- | --- |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [The Rock (1996)](https://www.imdb.com/title/tt0117500/) 👍 | COisG 👍 | COisG 👍 | COisG 👍 | N/A | N/A | N/A |
 | [Bowfinger (1999)](https://www.imdb.com/title/tt0131325/) 👍 | COisG 👍 | COisG 👍 | COisG 👍 | N/A | Boosh | [Frisky Dingo (2006)](https://en.wikipedia.org/wiki/Frisky_Dingo) |
 | [Robocop (1987)](https://www.imdb.com/title/tt0093870/) 👍 | COisG 👍 | COisG 👍 | COisG 👍 | N/A | N/A | N/A |
@@ -12,7 +12,7 @@
 | [The Matrix (1999)](https://www.imdb.com/title/tt0133093/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | E - COisG 👍 | Shoot the glass! | [Die Hard (1988)](https://en.wikipedia.org/wiki/Die_Hard) |
 | [House of the Dead (2003)](https://www.imdb.com/title/tt0317676/) ❌ | COisG 👍 | COisB ❌ | COisB ❌ | N/A | It's a trick. Get an axe. | [Army of Darkness (1992)](https://en.wikipedia.org/wiki/Army_of_Darkness) |
 | [Scream (1996)](https://www.imdb.com/title/tt0117571/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | I am a leaf on the wind - watch how I soar. | [Serenity (2005)](<https://en.wikipedia.org/wiki/Serenity_(2005_film)>) |
-| [Jason X (2001)](https://www.imdb.com/title/tt0211443/) 👍 COisG 👍 | COisB 👍 | COisB 👍 | N/A | This ain't no bank robbery! | [Inside Man (2006)](https://en.wikipedia.org/wiki/Inside_Man) |
+| [Jason X (2001)](https://www.imdb.com/title/tt0211443/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | This ain't no bank robbery! | [Inside Man (2006)](https://en.wikipedia.org/wiki/Inside_Man) |
 | [Dawn of the Dead (2004)](https://www.imdb.com/title/tt0363547/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | _I got good news and bad news, girls. The good news is your dates are here._ <br> **What's the bad news?** <br> _They're dead._ | [Night of the Creeps (1986)](https://en.wikipedia.org/wiki/Night_of_the_Creeps) |
 | [Highlander (1986)](https://www.imdb.com/title/tt0091203/) 👍 | COisG 👍 | COisB ❌ | COisB 👍 | N/A | In the end there can be only one. | [Highlander (1986)](<https://en.wikipedia.org/wiki/Highlander_(film)>) |
 | [The Waterboy (1998)](https://www.imdb.com/title/tt0120484/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | It's called a lance. Hello? | [A Knight's Tale (2001)](https://en.wikipedia.org/wiki/A_Knight%27s_Tale) |
@@ -40,8 +40,8 @@
 | [Soldier (1998)](https://www.imdb.com/title/tt0120157/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | [For Love of the Game (1999)](https://www.imdb.com/title/tt0126916/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | [Mortal Kombat (1995)](https://www.imdb.com/title/tt0113855/) ❌ | COisG 👍 | COisB ❌ | COisB ❌ | N/A | Quote | [OriginTitle](OriginURL) |
-| [Resident Evil (2002)](https://www.imdb.com/title/tt0120804/) 👍 |  | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Do you know why you're afraid when you're alone? I do. I do. | [The Sixth Sense (1999)](https://en.wikipedia.org/wiki/The_Sixth_Sense) |
-| [The Monster Squad (1987)](https://www.imdb.com/title/tt0093560/) 👍 |  | COisB ❌ | COisB ❌ | COisB 👍 | Lester - COisB 👍, E - COisB 👍 (Tiebreaker) | Dog will hunt. | [The Texas Chainsaw Massacre 2 (1986)](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2) |
+| [Resident Evil (2002)](https://www.imdb.com/title/tt0120804/) 👍 | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Do you know why you're afraid when you're alone? I do. I do. | [The Sixth Sense (1999)](https://en.wikipedia.org/wiki/The_Sixth_Sense) |
+| [The Monster Squad (1987)](https://www.imdb.com/title/tt0093560/) 👍 | COisB ❌ | COisB ❌ | COisB 👍 | Lester - COisB 👍, E - COisB 👍 (Tiebreaker) | Dog will hunt. | [The Texas Chainsaw Massacre 2 (1986)](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2) |
 | [Ewoks: The Battle for Endor (1985)](https://www.imdb.com/title/tt0089110/) ❌ | COisG 👍 | COisB ❌ | COisB ❌ | N/A | No, no, no, no. You gotta listen to the way people talk. You don't say "affirmative," or some shit like that. You say "no problemo." | [Terminator 2: Judgment Day (1991)](https://www.imdb.com/title/tt0103064/) |
 | [MovieTitle](MovieURL) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
 | [MovieTitle](MovieURL) | COisG 👍 | COisB 👍 | COisB 👍 | N/A | Quote | [OriginTitle](OriginURL) |
